@@ -26,11 +26,12 @@ While the AI Maturity Model is grounded in contemporary research and software en
 
 ## References
 
-2. CMMI Institute. *Capability Maturity Model Integration (v2.0)*.
-3. Microsoft Research. (2023). *Responsible AI Maturity Model (RAI-MM)*. MSR-TR-2023-26.
-4. MIT CISR. (2024). *Enterprise AI Maturity Model*. Weill, Woerner, & Sebastian.
-5. Cho, H., et al. (2023). *A Maturity Model for Trustworthy AI Software Development*. Applied Sciences, 13(8), 4771.
-6. Dohmke, T., et al. (2023). *Measuring the Productivity of AI-Powered Developers at Scale*. arXiv:2306.15033.
-7. Paradis, C., et al. (2024). *Measuring the Impact of AI on Developer Efficiency in Large Enterprises*. arXiv:2410.12944.
-8. GitClear. (2025). *AI Copilot Code Quality: 2025 Look Back*.
-9. USAII. (2025). *Understanding AI Maturity Levels: A Roadmap for Strategic AI Adoption*.
+
+1. CMMI Institute. *Capability Maturity Model Integration (v2.0)*.
+2. Microsoft Research. (2023). *Responsible AI Maturity Model (RAI-MM)*. MSR-TR-2023-26.
+3. MIT CISR. (2024). *Enterprise AI Maturity Model*. Weill, Woerner, & Sebastian.
+4. Cho, H., et al. (2023). *A Maturity Model for Trustworthy AI Software Development*. Applied Sciences, 13(8), 4771.
+5. Dohmke, T., et al. (2023). *Measuring the Productivity of AI-Powered Developers at Scale*. arXiv:2306.15033.
+6. Paradis, C., et al. (2024). *Measuring the Impact of AI on Developer Efficiency in Large Enterprises*. arXiv:2410.12944.
+7. GitClear. (2025). *AI Copilot Code Quality: 2025 Look Back*.
+8. USAII. (2025). *Understanding AI Maturity Levels: A Roadmap for Strategic AI Adoption*.
