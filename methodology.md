@@ -4,7 +4,7 @@ The AI Maturity Model for Software Engineering is built on a synthesis of academ
 
 ## Research-Informed Structure
 
-The model is grounded in a wide range of peer-reviewed research, industry reports, and practitioner studies (see "Research Synthesis"). Key sources include:
+The model is grounded in a wide range of peer-reviewed research, industry reports, and practitioner studies. Key sources include:
 
 * Studies on developer productivity and AI tools (e.g., GitHub Copilot, pair programming with LLMs)
 * Research on responsible AI governance, trust calibration, and human-AI interaction
